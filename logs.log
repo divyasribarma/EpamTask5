@@ -1,0 +1,15 @@
+2020-02-26 15:34:49 INFO  CalculateInterest:17 - Enter the principle amount: 
+2020-02-26 15:35:07 INFO  CalculateInterest:20 - Enter the time period(in years) : 
+2020-02-26 15:35:09 INFO  CalculateInterest:22 - Enter the rate: 
+2020-02-26 15:35:13 INFO  CalculateInterest:24 - The simple interest = 6000.0
+2020-02-26 15:35:13 INFO  CalculateInterest:25 - The compound interest = 6120.8000000000175
+2020-02-26 15:35:13 INFO  CalculateInterest:31 - *******************************************
+2020-02-26 15:35:13 INFO  ConstructionCost:18 - Construction cost estimation:- 
+2020-02-26 15:35:13 INFO  ConstructionCost:19 - Available Materials:- 
+2020-02-26 15:35:13 INFO  ConstructionCost:20 - 1. Standard materials
+2020-02-26 15:35:13 INFO  ConstructionCost:21 - 2. Above standard materials
+2020-02-26 15:35:13 INFO  ConstructionCost:22 - 3.High standard materials
+2020-02-26 15:35:13 INFO  ConstructionCost:23 - 4. High standard materials and fully automated home
+2020-02-26 15:35:13 INFO  ConstructionCost:24 - Choose(1-4): 
+2020-02-26 15:35:35 INFO  ConstructionCost:30 - Enter the area of house: 
+2020-02-26 15:35:39 INFO  ConstructionCost:33 - Cost = 480000.0 Rupees
